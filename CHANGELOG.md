@@ -6,6 +6,9 @@ All changes we make to the assignment code or PDF will be documented in this fil
 
 ### Added
 
+- handout: added suggestion to plan out your scaling runs beforehand, since the
+  training API will refuse further requests past the 2e18 budget.
+
 ### Changed
 
 ### Fixed
